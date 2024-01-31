@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(14, 134, 231);
+    background-image: url("animasi-bergerak-balon-0053.gif"), url("animasi-bergerak-ulang-tahun-0195.gif");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+}
+
+.hbd-head {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hbd-content {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.img-hbd {
+    height: 20%;
+    width: 20%;
+    border-radius: 8px;
+    
+}
+
+
+
+.button {
+    background-color: #555555; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 8px;
+    
+}
+
+.button:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
+
+  

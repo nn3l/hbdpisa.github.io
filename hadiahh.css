@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(14, 134, 231);
+    background-image: url("animasi-bergerak-ulang-tahun-0123.gif");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.kue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #555555; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 8px;
+    
+}
